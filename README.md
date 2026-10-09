@@ -6,14 +6,14 @@
 
 ## 下载
 
-当前版本：**v0.2.6-phase1**（2026-10-09） · [全部发行版](https://gitee.com/mhwpub/netloan/releases)
+当前版本：**v0.2.6-phase1**（2026-10-09） · 发行版：[GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases) / [Gitee](https://gitee.com/mhwpub/netloan/releases)
 
-| 应用 | 包名 | 用途 | 下载 |
+| 应用 | 包名 | 用途 | 下载（GitHub / Gitee） |
 |------|------|------|------|
-| **Client · 我是出口** | `com.netloan.client` | 用本机 SIM 卡提供网络出口 | [netloan-client.apk](https://gitee.com/mhwpub/netloan/releases/download/v0.2.6-phase1/netloan-client.apk) |
-| **Host · 我要出口** | `com.netloan.host` | 让本机 / 热点走远端 IP | [netloan-host.apk](https://gitee.com/mhwpub/netloan/releases/download/v0.2.6-phase1/netloan-host.apk) |
+| **Client · 我是出口** | `com.netloan.client` | 用本机 SIM 卡提供网络出口 | [GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases/download/v0.2.6-phase1/netloan-client.apk) · [Gitee](https://gitee.com/mhwpub/netloan/releases/download/v0.2.6-phase1/netloan-client.apk) |
+| **Host · 我要出口** | `com.netloan.host` | 让本机 / 热点走远端 IP | [GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases/download/v0.2.6-phase1/netloan-host.apk) · [Gitee](https://gitee.com/mhwpub/netloan/releases/download/v0.2.6-phase1/netloan-host.apk) |
 
-> 安装包同时收录于仓库 `apk/` 目录（Gitee 对超过 10MB 的文件要求登录后下载，推荐使用上方发行版直链）。
+> 双端安装包同时收录于仓库 `apk/` 目录；Gitee 对超过 10MB 的文件要求登录后下载，推荐使用上方发行版直链。
 
 - 安装：在系统设置中允许"安装未知应用"后直接安装。
 - Client 无需 Root；Host 的「VPN 自用」模式无需 Root，「热点共享」模式需 Root。
