@@ -1,9 +1,9 @@
 ﻿role=client
-version.name=0.2.6-phase1
-version.code=206
-git.commit=85154fc
-built.at=2026-10-09 20:23:46 +08:00
+version.name=0.2.8-phase1
+version.code=208
+git.commit=4b488f3
+built.at=2026-10-10 20:43:17 +08:00
 apk.file=netloan-client.apk
-apk.size=9058276
-apk.sha256=e41cdaffe35dd3a3d718ff7b40b3ddb5e580e8ba87aa69813a9d250aab44a9ed
+apk.size=9045988
+apk.sha256=82a45127f2858f12decbb49cb0e4ca10c600f2a05139c3d53c097148dc566be6
 signer.sha256=00b51cadea59af2b260880cad8fd497c411dc2f39c76dc70341a41337c325a80

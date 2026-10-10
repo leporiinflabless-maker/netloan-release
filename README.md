@@ -6,12 +6,12 @@
 
 ## 下载
 
-当前版本：**v0.2.6-phase1**（2026-10-09） · 发行版：[GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases) / [Gitee](https://gitee.com/mhwpub/netloan/releases)
+当前版本：**v0.2.8-phase1**（2026-10-10） · 发行版：[GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases) / [Gitee](https://gitee.com/mhwpub/netloan/releases)
 
 | 应用 | 包名 | 用途 | 下载（GitHub / Gitee） |
 |------|------|------|------|
-| **Client · 我是出口** | `com.netloan.client` | 用本机 SIM 卡提供网络出口 | [GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases/download/v0.2.6-phase1/netloan-client.apk) · [Gitee](https://gitee.com/mhwpub/netloan/releases/download/v0.2.6-phase1/netloan-client.apk) |
-| **Host · 我要出口** | `com.netloan.host` | 让本机 / 热点走远端 IP | [GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases/download/v0.2.6-phase1/netloan-host.apk) · [Gitee](https://gitee.com/mhwpub/netloan/releases/download/v0.2.6-phase1/netloan-host.apk) |
+| **Client · 我是出口** | `com.netloan.client` | 用本机 SIM 卡提供网络出口 | [GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases/download/v0.2.8-phase1/netloan-client.apk) · [Gitee](https://gitee.com/mhwpub/netloan/releases/download/v0.2.8-phase1/netloan-client.apk) |
+| **Host · 我要出口** | `com.netloan.host` | 让本机 / 热点走远端 IP | [GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases/download/v0.2.8-phase1/netloan-host.apk) · [Gitee](https://gitee.com/mhwpub/netloan/releases/download/v0.2.8-phase1/netloan-host.apk) |
 
 > 双端安装包同时收录于仓库 `apk/` 目录；Gitee 对超过 10MB 的文件要求登录后下载，推荐使用上方发行版直链。
 
@@ -23,8 +23,8 @@
 
 | 文件 | SHA-256 |
 |------|---------|
-| netloan-client.apk | `e41cdaffe35dd3a3d718ff7b40b3ddb5e580e8ba87aa69813a9d250aab44a9ed` |
-| netloan-host.apk | `9ab3d2bce8cd5731e8e95f865d9c1cd107ed9d70c21f575b9c8a41b09778f549` |
+| netloan-client.apk | `82a45127f2858f12decbb49cb0e4ca10c600f2a05139c3d53c097148dc566be6` |
+| netloan-host.apk | `1fef4c3f3f80b2437203f7418e0a0bc6636ec99bbb85d74e3421588f913371a4` |
 
 ## 使用说明
 
@@ -33,5 +33,7 @@
 
 ## 更新日志
 
+- **v0.2.8**（2026-10-10）：Client 移除「发布我的 IP 出售」功能（IP 集市）。
+- **v0.2.7**（2026-10-10）：房间被服务端删除时，双端自动退出到无房间状态（不再重拨/重试）。
 - **v0.2.6**（2026-10-09）：品牌更新为「猛号网」，首页新增品牌广告词。
 - **v0.2.5**（2026-10-09）：移除应用内卡密兑换功能。
