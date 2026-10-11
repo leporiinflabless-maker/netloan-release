@@ -6,12 +6,12 @@
 
 ## 下载
 
-当前版本：**v0.2.10-phase1**（2026-10-11） · 发行版：[GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases) / [Gitee](https://gitee.com/mhwpub/netloan/releases)
+当前版本：**v0.2.11-phase1**（2026-10-11） · 发行版：[GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases) / [Gitee](https://gitee.com/mhwpub/netloan/releases)
 
 | 应用 | 包名 | 用途 | 下载（GitHub / Gitee） |
 |------|------|------|------|
-| **Client · 我是出口** | `com.netloan.client` | 用本机 SIM 卡提供网络出口 | [GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases/download/v0.2.10-phase1/netloan-client.apk) · [Gitee](https://gitee.com/mhwpub/netloan/releases/download/v0.2.10-phase1/netloan-client.apk) |
-| **Host · 我要出口** | `com.netloan.host` | 让本机 / 热点走远端 IP | [GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases/download/v0.2.10-phase1/netloan-host.apk) · [Gitee](https://gitee.com/mhwpub/netloan/releases/download/v0.2.10-phase1/netloan-host.apk) |
+| **Client · 我是出口** | `com.netloan.client` | 用本机 SIM 卡提供网络出口 | [GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases/download/v0.2.11-phase1/netloan-client.apk) · [Gitee](https://gitee.com/mhwpub/netloan/releases/download/v0.2.11-phase1/netloan-client.apk) |
+| **Host · 我要出口** | `com.netloan.host` | 让本机 / 热点走远端 IP | [GitHub](https://github.com/leporiinflabless-maker/netloan-release/releases/download/v0.2.11-phase1/netloan-host.apk) · [Gitee](https://gitee.com/mhwpub/netloan/releases/download/v0.2.11-phase1/netloan-host.apk) |
 
 > 双端安装包同时收录于仓库 `apk/` 目录；Gitee 对超过 10MB 的文件要求登录后下载，推荐使用上方发行版直链。
 
@@ -23,8 +23,8 @@
 
 | 文件 | SHA-256 |
 |------|---------|
-| netloan-client.apk | `b6f9ef79795b6d6008346f74f732547a2958a0df77aff840624ba5be9c5d4ecd` |
-| netloan-host.apk | `8fea9b775a06b4ca2db66ff6468da9df43dd059234947a9cae642f9a38f72631` |
+| netloan-client.apk | `697030e9c7cfb9736acdda0b8fa0677e2b7d7e65d9dd255edf2684cd3aa4aec3` |
+| netloan-host.apk | `e4cc680ba8d14f0b5ce715f10fbc8feb47b434b1eaaf20658d81583c35f752d8` |
 
 ## 使用说明
 
@@ -33,6 +33,7 @@
 
 ## 更新日志
 
+- **v0.2.11**（2026-10-11）：修复加固版 Host 端开启「VPN 自用」崩溃的问题（hev.htproxy 保名）；其余无变化。
 - **v0.2.10**（2026-10-11）：修复 0.2.9 加固版 Host 端打开「控制台」崩溃的问题；其余无变化。
 - **v0.2.9**（2026-10-11）：安全加固（R8 代码混淆 / 反调试反注入 / 安装包签名校验），无界面变化。
 - **v0.2.8**（2026-10-10）：Client 移除「发布我的 IP 出售」功能（IP 集市）。

@@ -1,9 +1,9 @@
 ﻿role=host
-version.name=0.2.10-phase1
-version.code=210
-git.commit=8c11706
-built.at=2026-10-11 17:42:11 +08:00
+version.name=0.2.11-phase1
+version.code=211
+git.commit=c186d20
+built.at=2026-10-11 17:46:53 +08:00
 apk.file=netloan-host.apk
 apk.size=25898661
-apk.sha256=8fea9b775a06b4ca2db66ff6468da9df43dd059234947a9cae642f9a38f72631
+apk.sha256=e4cc680ba8d14f0b5ce715f10fbc8feb47b434b1eaaf20658d81583c35f752d8
 signer.sha256=00b51cadea59af2b260880cad8fd497c411dc2f39c76dc70341a41337c325a80
